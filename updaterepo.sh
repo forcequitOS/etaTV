@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+ #!/usr/bin/env bash
 
 set -euo pipefail
 
@@ -37,7 +37,7 @@ APT {
             Suite stable;
             Version 1.0;
             Codename "$codename";
-            Architectures "iphoneos-arm" "iphoneos-arm64";
+            Architectures "appletvos-arm64";
             Components main;
             Description "$description";
         };
@@ -126,7 +126,7 @@ update_repo() {
     fi
 
     cd "$(dirname "$0")" || exit
-    rm -f Packages* Contents-iphoneos-arm* Release* 2> /dev/null
+    rm -f Packages* Contents-appletvos-arm64* Release* 2> /dev/null
 
     $apt_ftparchive packages ./debians > Packages
     gzip -c9 Packages > Packages.gz
@@ -134,13 +134,13 @@ update_repo() {
     zstd -c19 Packages > Packages.zst
     bzip2 -c9 Packages > Packages.bz2
 
-    $apt_ftparchive contents ./debians > Contents-iphoneos-arm
-    bzip2 -c9 Contents-iphoneos-arm > Contents-iphoneos-arm.bz2
-    xz -c9 Contents-iphoneos-arm > Contents-iphoneos-arm.xz
-    xz -5fkev --format=lzma Contents-iphoneos-arm > Contents-iphoneos-arm.lzma
-    lz4 -c9 Contents-iphoneos-arm > Contents-iphoneos-arm.lz4
-    gzip -c9 Contents-iphoneos-arm > Contents-iphoneos-arm.gz
-    zstd -c19 Contents-iphoneos-arm > Contents-iphoneos-arm.zst
+    $apt_ftparchive contents ./debians > Contents-appletvos-arm64
+    bzip2 -c9 Contents-appletvos-arm64 > Contents-appletvos-arm64.bz2
+    xz -c9 Contents-appletvos-arm64 > Contents-appletvos-arm64.xz
+    xz -5fkev --format=lzma Contents-appletvos-arm64 > Contents-appletvos-arm64.lzma
+    lz4 -c9 Contents-appletvos-arm64 > Contents-appletvos-arm64.lz4
+    gzip -c9 Contents-appletvos-arm64 > Contents-appletvos-arm64.gz
+    zstd -c19 Contents-appletvos-arm64 > Contents-appletvos-arm64.zst
 
     $apt_ftparchive release -c "$CONFIG_FILE" . > Release
 

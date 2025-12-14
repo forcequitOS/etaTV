@@ -1,0 +1,20 @@
+Package: cc.forcequit.solaria
+Architecture: appletvos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: Taj C (forcequit)
+Installed-Size: 60
+Depends: firmware (>= 26.0), ellekit (>= 1.1.2), preferenceloader (>= 1.5-15)
+Filename: ./debians/cc.forcequit.solaria_1.0.0_appletvos-arm64.deb
+Size: 3724
+MD5sum: ae38fe0981486e0963f0782342878009
+SHA1: 0f986934adb9ce4c2349b5eeb75f8a9dd0bb9783
+SHA256: c169e08e2d25fd0aa9e6d9f96876a22eb6743e06a62be4d382fbb5e921085302
+SHA512: fc67cdc769dfd5dce11c98b3c95fd78790f341618ff7a8f98aab20b4d25c667de0576913019dc63aa6363802cff2583af05a9e7f70ca74877df0a48403f92bfb
+Description: Enable Liquid Glass on unsupported Apple TV models. Requires tvOS 26!
+Name: Solaria
+Author: Taj C (forcequit)
+Icon: https://raw.githubusercontent.com/forcequitOS/etaTV/main/assets/icons/SolariaIcon256.png
+Depiction: https://github.com/forcequitOS/etaTV/depictions/web?p=cc.forcequit.solaria
+SileoDepiction: https://github.com/forcequitOS/etaTV/depictions/native/cc.forcequit.solaria/depiction.json
+

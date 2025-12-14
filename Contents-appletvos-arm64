@@ -1,0 +1,10 @@
+.							    cc.forcequit.solaria
+DynamicLibraries					    cc.forcequit.solaria
+Library							    cc.forcequit.solaria
+MobileSubstrate						    cc.forcequit.solaria
+PreferenceLoader					    cc.forcequit.solaria
+Preferences						    cc.forcequit.solaria
+Preferences.plist					    cc.forcequit.solaria
+Solaria							    cc.forcequit.solaria
+Solaria.dylib						    cc.forcequit.solaria
+Solaria.plist						    cc.forcequit.solaria

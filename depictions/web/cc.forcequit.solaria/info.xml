@@ -1,0 +1,36 @@
+<package>
+	<id>cc.forcequit.solaria</id>
+	<name>Solaria</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>26.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>ellekit</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Enable Liquid Glass on unsupported Apple TV models running tvOS 26!</shortDescription>
+	<descriptionlist>
+		<description>Solaria is compatible with jailbroken (palera1n) Apple TV HD and Apple TV 4K (1st generation) units running tvOS 26</description>
+		<description>Solaria has been tested to work up to tvOS 26.1</description>
+		<description>Performance will be poor, as Apple disabled Liquid Glass support on these models for a reason.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>tvOS Home Screen highlighting PurePKG with Liquid Glass enabled</description>
+			<image>solaria-showcase-1.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>tvOS Control Center with Liquid Glass, Home Screen in background</description>
+			<image>solaria-showcase-2.png</image>
+		</screenshot>		
+		<screenshot>
+			<description>Solaria's preferences in the Settings app</description>
+			<image>solaria-showcase-3.png</image>
+	</screenshots>
+	<changelog>
+		<change>First public release of Solaria!</change>
+	</changelog>
+</package>
