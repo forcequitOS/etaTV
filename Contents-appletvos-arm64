@@ -1,8 +1,8 @@
-.							    cc.forcequit.solaria,cc.forcequit.stasis,cc.forcequit.stasis.lite
-Applications						    cc.forcequit.stasis
-Assets.car						    cc.forcequit.stasis
+.							    cc.forcequit.solaria,cc.forcequit.volte,cc.forcequit.stasis,cc.forcequit.stasis.lite
+Applications						    cc.forcequit.stasis,cc.forcequit.volte
+Assets.car						    cc.forcequit.stasis,cc.forcequit.volte
 DynamicLibraries					    cc.forcequit.solaria
-Info.plist						    cc.forcequit.stasis
+Info.plist						    cc.forcequit.stasis,cc.forcequit.volte
 Library							    cc.forcequit.solaria
 MobileSubstrate						    cc.forcequit.solaria
 PreferenceLoader					    cc.forcequit.solaria
@@ -13,3 +13,5 @@ Solaria.dylib						    cc.forcequit.solaria
 Solaria.plist						    cc.forcequit.solaria
 Stasis							    cc.forcequit.stasis
 Stasis.app						    cc.forcequit.stasis
+Volte							    cc.forcequit.volte
+Volte.app						    cc.forcequit.volte

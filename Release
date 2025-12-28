@@ -1,65 +1,65 @@
 Architectures: appletvos-arm64
 Codename: etaTV
 Components: main
-Date: Sat, 27 Dec 2025 03:30:56 +0000
+Date: Sun, 28 Dec 2025 05:03:57 +0000
 Description: A general-purpose repository for modern Apple TV jailbreaks.
 Label: etaTV Repo
 Origin: etaTV Repo
 Suite: stable
 Version: 1.0
 MD5Sum:
- fcb9f194d52772c3a8b9c4d5d95f8681              670 Contents-appletvos-arm64
- 47db7797b12b3837818619bf988ba535              220 Contents-appletvos-arm64.bz2
- f39d25b4354e681ffa4dd5d8a302944f              214 Contents-appletvos-arm64.gz
- 1cb5d2f47ce2d41c7efe29503c39255e              254 Contents-appletvos-arm64.lz4
- 78d22c067ba5d459590049c4cc3c80b4              199 Contents-appletvos-arm64.lzma
- 7255ab296c4b95db448ce6de5055e11a              252 Contents-appletvos-arm64.xz
- e0ebf9cf74883a1593bd6e0c16fe90c3              182 Contents-appletvos-arm64.zst
- 702c11ee50e8191a4df9b9a4115f0e97             2636 Packages
- 65300d623667f9842e025d47de4e2645             1260 Packages.bz2
- 5a73f03693db600e4263c9cd90572de0             1161 Packages.gz
- 21f6ffe4c23845b0a18da3f02e01d0a1             1220 Packages.xz
- 0a8eaf8c2c21b3ab3bebfa925ea5856e             1157 Packages.zst
- a9cb851ca779c854ecf924801cdc6a4f              240 Release
+ 539029205b49a442fccd2d627bc55dce              819 Contents-appletvos-arm64
+ c13be6069a5959209368a26269b16798              240 Contents-appletvos-arm64.bz2
+ 87e266dd7e9838f64a6492c0fc78f306              238 Contents-appletvos-arm64.gz
+ 31f19cd6e12eeba3a79849cb3258453a              285 Contents-appletvos-arm64.lz4
+ af856fc90f1edb7a1e4045993d49f835              223 Contents-appletvos-arm64.lzma
+ 62569d09ea7cd2d1a6e50cb7df88deb6              276 Contents-appletvos-arm64.xz
+ 3d080b9a8eb6a275952beba56d88eb18              204 Contents-appletvos-arm64.zst
+ f3aa80e0e8c92143ff5ccbab0cf042e1             3404 Packages
+ b60b85d097fc73194cc610411b2d6f7c             1520 Packages.bz2
+ a13877e9e1c9da90a75dee1d86238716             1399 Packages.gz
+ cae1bf3667bbf067149e4817769288c2             1428 Packages.xz
+ 6c3be791aa0ed130abe38eefdefd9474             1377 Packages.zst
+ 127e582041112c8f28e263297a06b52a              240 Release
 SHA1:
- 6f732b1b24e0427378ae8841a04b6c88612375bb              670 Contents-appletvos-arm64
- e7e32f281cefd8f573127d917b17a713469ac147              220 Contents-appletvos-arm64.bz2
- 89b81ccb369af35ecdb65626d6313d6dcd6796ce              214 Contents-appletvos-arm64.gz
- 930165d139911b43e667b22bc11ad40115364d16              254 Contents-appletvos-arm64.lz4
- aa9e52c5e66521883a439206da4a3da3df57b1e1              199 Contents-appletvos-arm64.lzma
- 38a40239a9e492abc2a8e3d7a829a7567e41e3dd              252 Contents-appletvos-arm64.xz
- f1e3f71eff60539144b7e40a04b27021aec23101              182 Contents-appletvos-arm64.zst
- 9e357b8624370f60b6286871ee5fdd01ab88a689             2636 Packages
- e68e5ffd80db186a9479ba08cb84ac03bacb1d45             1260 Packages.bz2
- dcb277bc6c609799d4b5335e85cad49753322518             1161 Packages.gz
- b11b61910104eb092dde6f4be11e4a261d4412a9             1220 Packages.xz
- 835b4eb546f630c27cd25551d66997717aa38b59             1157 Packages.zst
- 1de463b5f7d434c1262543c755b328d1727a1a80              240 Release
+ f398cb38c343ab719b7fd2bbe634510d7a4a0e32              819 Contents-appletvos-arm64
+ fe5a442de6305df858992411e594460c69d0b882              240 Contents-appletvos-arm64.bz2
+ e024d7583e32bd13864d9979f74468008cb33f51              238 Contents-appletvos-arm64.gz
+ dd22d1f46c32db2588970b80c15a98545771b5bf              285 Contents-appletvos-arm64.lz4
+ d8a078c8cb81dd1c713d63c0cdcd5253ac96d64b              223 Contents-appletvos-arm64.lzma
+ 6267786b48b7b4dd70b35a0033b0971ad6508c78              276 Contents-appletvos-arm64.xz
+ 0102fe8b04b1dae90e90f29ff0cece4eb3cd740c              204 Contents-appletvos-arm64.zst
+ 2aa45ee535d2326247204baccb054fc97c525f5b             3404 Packages
+ 00c1e7f0178be0ff6b64ee21debf0e9ddb969f61             1520 Packages.bz2
+ 527250a27e13e2bbbf1661cbd92724292bcad160             1399 Packages.gz
+ 504fb9d5bbbc6b60b91dfb955053802ed0c0bc8a             1428 Packages.xz
+ 63f4faf44880601cf5870d60767d63fa377a3c94             1377 Packages.zst
+ 22c130bc9228128b882fbeec89be11291b5e7ba9              240 Release
 SHA256:
- 991a0623587089669ae48099ebdb964ffc8ff04353245256181a3829e2032c17              670 Contents-appletvos-arm64
- 23375005363725a5508ba5b603fea4326cdd908ddb2fb08f4366f509027d671b              220 Contents-appletvos-arm64.bz2
- a2732b7b4fabd5a397deda626045fd201b6d44164383c4dc086acaf93cce85d9              214 Contents-appletvos-arm64.gz
- b162bdd57e1e0000d50adc4ad04d2eedcc258719450d55ddfe8723bb012e4b4d              254 Contents-appletvos-arm64.lz4
- 9b5ae1fd72abf8ad92d28eed63867e626d9958e0de20ef0430f08b9ff6a788d8              199 Contents-appletvos-arm64.lzma
- 5667cf9e3d14f69758cb24fdd6831226f61c7557c785350bec47da037f18fa16              252 Contents-appletvos-arm64.xz
- fa58c30e20e4632559eaf1c24a9f542b91ecac7b133375a0e879acdc734c313e              182 Contents-appletvos-arm64.zst
- d32d00f8bca123fd432677e3db790ccc9b7b8b6f679cb8c48d4990f420111b82             2636 Packages
- 5a8d00516239b0808afa0b703d5a12747d16228391f0e27cfe9e1c436d7a748d             1260 Packages.bz2
- cd2cd4e204b3e02b723358827f499c6503c29cf8f4e6f0ab8d853ae2ee7f36d9             1161 Packages.gz
- ee61f1b1111cfcdf43f658ecda8a9cb050cb2320f4ae307a0c30d3ba5fc44f32             1220 Packages.xz
- 3d4f45bd80232749300f99c36346d4fe7058f08933f20a3604ead300bf4405c2             1157 Packages.zst
- 1e32a69fe2669087876b60a217c9f74173af06a01f6d805923c2b8c5c432c8e9              240 Release
+ fa9298c9e8095d34447f131c1e110052fbc653f53e826853e0ea814d9395bdc9              819 Contents-appletvos-arm64
+ ad274992ceffcd1bc054574aac30244aff1e7c463f88985448c5c1636efbfaa9              240 Contents-appletvos-arm64.bz2
+ 88a8be8b851b2e1b0936456dd6a74469d3bead7a33db1e7be62460d8a2137e6e              238 Contents-appletvos-arm64.gz
+ 0c1b412f7f72c708f66389bd16cbc3c6d2a8e31fdc85d2b211afa7057766dc51              285 Contents-appletvos-arm64.lz4
+ 2c9a52519fbab3a0c1563ecffcc26cd10ee1c4f5a4f8de6a0a8701316a6da92c              223 Contents-appletvos-arm64.lzma
+ 657b52303e25f9dceff576ab4bc760eb0cfc8b74f2aed4ddaeb048ff2ba67cd3              276 Contents-appletvos-arm64.xz
+ b7165ebc9818213aa82c0451ecf1317b8b7fcb5f2ac5222f2125cb8a18cc0d2a              204 Contents-appletvos-arm64.zst
+ 496c301ea6d28b475a4d0a087d2ddc802c75e0e7daedc49e9ccd11cbf9d33d9e             3404 Packages
+ cced8c8e8d14a9a7a84c207a68ecb6ef40227be114e50c31749d6bff07e842b4             1520 Packages.bz2
+ a7235a5202ab617d6c0a03c5e1af6b1dc1248b1a0c2963ea259993d6beb3b57e             1399 Packages.gz
+ 7f619e087e0f10fb8083e895c738171e0946ceaf572a76100e27d09f6038f37a             1428 Packages.xz
+ 51c5e8d310487ec78316f8bf055a1012cb70b65b228ba8d7896bbc324d830d5f             1377 Packages.zst
+ 9d7d977c7f0498fb8f25630e92450b3c0ead565ad23a158c4e5a1a1c54d71e3c              240 Release
 SHA512:
- 722c39ca6ddbbecc8f2d2a4e297ef74426d3974f908711bf7a6c05cf94bba294e7fef41bc237ab4c016974bc635c226d9f0d9222dd353cbaa0316ea05e772950              670 Contents-appletvos-arm64
- f37440d08e7896b42b3a047364e729282d4f83a39db565736a7f890c7173f3307d7e3acc2b69c43bf65522e4e038ac46dd63a5ee753249f753051166504ba597              220 Contents-appletvos-arm64.bz2
- 12b68ac89a35de29ae6694cf83f9df4e8f17efbfa71b5ce45416fe71e1de7da54b98a8693602cab8ba824e70bfda6d3246ed7e25ad1d48f89b06023bd1449e02              214 Contents-appletvos-arm64.gz
- e6c7a6518090a8d3651453332c53c4ccc99c9e8b2ccd15254b74f8fb87b9c94d51ea5961e296fc3947b7b1f810a5e63db7dda3e90a653ace777f335182d084d7              254 Contents-appletvos-arm64.lz4
- 19384e285f0b76365e82992d19422b2b506db2c0ddd8dcb6d75648226575b6b8ebc1ae52324b94cdffe261fab4946493ffea289e776a419897473800658054b3              199 Contents-appletvos-arm64.lzma
- f6193fa28a996cbf91f01722a05be75b700c01bf2df69c6d5caf1963da53bcdf08b0233cb55762aa2112da4f97c44092c24df8f7e989d2ed774daf65d30edf55              252 Contents-appletvos-arm64.xz
- fbc78020d8762407b9e0c71ba66d8b4546cb636dff53a02a573e66ebe75652e478c9cc806ab529aae85358776c120965dfcd2d076e0be88b6f7a2476f74633c9              182 Contents-appletvos-arm64.zst
- 9ff04c208878c39d6c9cc9c388ca11c3709c0ffb096c9fa23482317d95f613985d02a353a5788ba3af7555c4b352159dbadd4e67ab6e7ed71448068011658f2b             2636 Packages
- 1b2ffef398c93eb40b08c83596dd1043c7ebd26c3c0e40a27546201a5dfadf8d0ac17379177218e5d8ecb157487f0618dd60e661b65c6e5a2d8ca40b92b13aa6             1260 Packages.bz2
- 004301f5fc2ba8aab19fdade2e3c37654486c30efdf063965dbde4fac16dc074534956fa7a2a0d6ae33467b028e3e650d6eb3860858d24c5196e0be13ae2fc6d             1161 Packages.gz
- c517b1b187bb1f9d03cf2b8340acb4d636f066336a621cb9337ae3169d45a2e80b0a501d1ee95fba7780a933c907adb33d5152a9ad080a28c99c8c9501fc3ee8             1220 Packages.xz
- ff526d1ceb1f41acc40e58e7f98cf1937f5aba9619cbf6d8e044f986a793120eb11857edc00a1d4db5f3bf083e8adf5932effbff569b4f4af81aebbd3f2d5509             1157 Packages.zst
- dc63ddc23dfe3edfd5b0fbd84addf2324fde786cc873bef752836886a050b23b6befded79b8ac8564e131ae36301ebe34df9201c0afd51f33e83ce9258409030              240 Release
+ c945c55471e0137903aa6a0b00adecf5e2f6fbf059ef291c001eb06ccafede47837f11db5d88b1c45ee2df635cbab048c51b0a93e5fdf8919a4e04b2ffc4f88e              819 Contents-appletvos-arm64
+ f7a9aa48d13393b34908009fecd677c2a3457ca00a707033fa6c096063c9a1f7c4600bea1666bbc4c88e2281a0699e7835c0265331245e0b9e67d6826bab94f0              240 Contents-appletvos-arm64.bz2
+ 54a59a6a79df0e035b1af77bf605a748eb660a58822a2b5262eeef3bfcc941008ef4f4a6eb8a6d57a6878b005922a6bb9dae7fe9827fba98263d08462573979b              238 Contents-appletvos-arm64.gz
+ 89d69d7509c3dd033f8bb0fce7f1e2b8a5bc0d776fa15ecc6c5d68d9c7d952ed827abf3cd5d3b60be7dbd732fb658961b217e7b4885214318e749be2c154f9bd              285 Contents-appletvos-arm64.lz4
+ 28ea6deed373569c457e8e2aa84bf97af1b6009d6bb7913466efc82faf015656aa73460c361cffeac7dd6f2a11323ebeb11d957fb5735de301bbfc7436f246b4              223 Contents-appletvos-arm64.lzma
+ 277539cbedecee7c77fff38e955f325314119a7a271dbc291d23c3aed89abcc796af6e63be5200d145363b3641a25ebbd3909bdfde60fd7340794ff8744c20cb              276 Contents-appletvos-arm64.xz
+ 52a381a33b64ccc905c4abf5fbe0ef460a10b1191183dcd0cea662551437306d475f58fdeaff9801f2d112f1d82e0e051ad76cb270c281cd51d1a6b46835dcf5              204 Contents-appletvos-arm64.zst
+ 40a27b160451e2df1d5d15c2a9e136f1d6ade9c69157b57e435aa103e3de09a09c6cbfe05d4939e8a63d511663765578f2de7ff3cedeb9cefc5181129729f705             3404 Packages
+ 603d219b72ef049e23e238ae49578fd13de6033570b2255a8f498a5bd5c1b728c4a52f1173c204c7900ed3b46dff5d24a9a3192b2b169566854aae01d332bb6f             1520 Packages.bz2
+ a239ae0498a0eeb0288aa58eb3c52ad1430ffec1babecc844a32c596e0d070f43a0a726ba7ce7648a736094033684c2c70eac56f572750e5fe5e1ca1bfc34582             1399 Packages.gz
+ ac8490a34a1d86240c106665e25021f86d66ef32f48f43151f7074fc78d6f095c3471dbc670a89c109d6fcc87192ed79b4f2a2fa49fce813c889ce26bf2d0164             1428 Packages.xz
+ fe4eab117e176396cda7bb27e457eab4cf956ccbe1e8d43ae5e86ffd088283f5ff5d2933615edaabbe6f43722c5d7b433d441728f4846fd7fa970deb87e0b8a9             1377 Packages.zst
+ b57ec3e94e413c4895ec87a6ae3c1278f8bc78457ad5954e9c300265a0a9403b3225ba623c861ea8bf691cc43104e181e42862cf0daea754b75575fe7b19f0cd              240 Release
