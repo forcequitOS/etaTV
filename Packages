@@ -39,18 +39,18 @@ Icon: https://raw.githubusercontent.com/forcequitOS/etaTV/main/assets/icons/Stas
 
 Package: cc.forcequit.stasis
 Architecture: appletvos-arm64
-Version: 1.1
+Version: 2.0
 Section: Utilities
 Maintainer: Taj C (forcequit)
-Installed-Size: 1040
+Installed-Size: 1084
 Depends: firmware (>= 14.0)
 Conflicts: cc.forcequit.stasis.lite
-Filename: ./debians/cc.forcequit.stasis_1.1_appletvos-arm64.deb
-Size: 943186
-MD5sum: f5dec50af5379baae051201ded953ed0
-SHA1: 4efb7b0f7ce675c24bd402b0afd438b9afa2cd92
-SHA256: 339ff1ad7da412caf7c20eba4e0e9e3a41dc3bcdd6fb57a1520120a5fe047933
-SHA512: 5588ca6c64c512d94ed5ddacb44681029c5a07cf9dc734a6e1ca34b2ca710ae358d5c069033c13dc6f0a37e5993aa7c49b97c8e0bbb8476700edea8de1108b2e
+Filename: ./debians/cc.forcequit.stasis_2.0_appletvos-arm64.deb
+Size: 951908
+MD5sum: 0b66791681540b0f5dd1103e9b6908ad
+SHA1: 9eb3e0d80582a887eeb9034378eec5886aa16082
+SHA256: 7c69dd814e8dd981d81e004713fe6418b9fce5af31b1463474da1299c9eb072e
+SHA512: dad6c8ab77a15587516d15ae649cbec68d7f70e27d83ba21acedc175c890b2893858afb70408ebd230f33bb20c633c1b2487f5a00621736ef0446c50b6bb1be0
 Description: Graphical app to block OTA software updates on modern tvOS. Requires tvOS 14.0 or newer!
 Name: Stasis
 Author: Taj C (forcequit)
